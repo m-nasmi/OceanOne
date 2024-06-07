@@ -1,0 +1,58 @@
+[
+    {
+      "productId": 1,
+      "productName": "Beach Dayout",
+      "price": "LKR 2000",
+      "category": "dayout",
+      "image": "images/dayout1.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Beach Dayout",
+        "price": "LKR 6000",
+        "category": "dayout",
+        "image": "images/dayout2.jpg"
+      },
+      {
+        "productId": 3,
+        "productName": "High Tea",
+        "price": "LKR 2000",
+        "category": "hightea",
+        "image": "images/hightea1.jpg"
+      },
+      {
+        "productId": 4,
+        "productName": "High Tea",
+        "price": "LKR 4000",
+        "category": "hightea",
+        "image": "images/hightea2.jpg"
+      },
+      {
+        "productId": 5,
+        "productName": "Honeymoon",
+        "price": "LKR 8000",
+        "category": "honeymoon",
+        "image": "images/honeymoon1.jpg"
+      },
+      {
+        "productId": 6,
+        "productName": "Honeymoon",
+        "price": "LKR 10000",
+        "category": "honeymoon",
+        "image": "images/honeymoon2.jpg"
+      },
+      {
+        "productId": 7,
+        "productName": "High Tea",
+        "price": "LKR 2000",
+        "category": "hightea",
+        "image": "images/hightea3.jpg"
+      },
+      {
+        "productId": 8,
+        "productName": "Honeymoon",
+        "price": "LKR 10000",
+        "category": "honeymoon",
+        "image": "images/honeymoon3.jpg"
+      }
+  ]

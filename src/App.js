@@ -1,9 +1,11 @@
 import React from 'react'
-import Home from '../src/components/Home'
+import AboutUs from '../src/components/AboutUs'
+import Contact from './components/Contact'
+import Package from './components/Package'
 
 const App = () => {
   return (
-    <div><Home/></div>
+    <div><Contact/></div>
   )
 }
 
