@@ -1,4 +1,3 @@
-/* CSS Styles for the glassmorphism effect box */
 .glass-effect {
     --width: 300px;
     transition: background 400ms, transform 1ms, opacity 400ms;
@@ -18,7 +17,6 @@
     align-items: center;
   }
   
-  /* Pseudo-element for the glass reflection effect */
   .glass-effect:before {
     content: '';
     position: absolute;
@@ -31,14 +29,12 @@
     opacity: 0;
   }
   
-  /* Animation for the glass reflection effect on hover */
   .glass-effect:hover:before {
     background: rgba(255, 255, 255, 0.3);
     animation-play-state: running;
     opacity: 1;
   }
   
-  /* Keyframes for the glass reflection effect */
   @keyframes glassReflection {
     from {
       transform: skewX(45deg) translateX(calc(var(--width) + 50%));

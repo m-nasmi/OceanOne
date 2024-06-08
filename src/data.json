@@ -54,5 +54,12 @@
         "price": "LKR 10000",
         "category": "honeymoon",
         "image": "images/honeymoon3.jpg"
+      },
+      {
+        "productId": 9,
+        "productName": "Beach Dayout",
+        "price": "LKR 8000",
+        "category": "dayout",
+        "image": "images/dayout3.jpg"
       }
   ]

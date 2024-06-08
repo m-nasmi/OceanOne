@@ -1,0 +1,19 @@
+.custom-carousel .carousel .slide img {
+    display: block;
+    margin: 0 auto;
+    height: 300px; 
+    width: auto; 
+    object-fit: cover; 
+  }
+  
+  .carousel .slide {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  .custom-carousel {
+    max-width: 500px; 
+    margin:0 auto; 
+  }
+  
